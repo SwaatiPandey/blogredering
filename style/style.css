@@ -122,13 +122,10 @@ hr {
   .blog-content h1 {
     font-size: 5vw;
   }
-  .section2 ul {
+  .section2 ul > li {
     font-size: 4vw;
   }
   .blog-image img {
     height: 100%;
   }
-  /* .blog-content {
-    font-size: 12px;
-  } */
 }
