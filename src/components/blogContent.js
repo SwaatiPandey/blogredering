@@ -4,9 +4,5 @@ export const blogContent = (content) => {
   const p = document.createElement("p");
   p.innerHTML = content;
   div.appendChild(p);
-
-  //   const Title = document.createElement("Title");
-  //   Title.innerHTML = title;
-  //   div.appendChild(Title);
   return div;
 };
