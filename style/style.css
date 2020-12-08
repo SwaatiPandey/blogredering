@@ -116,10 +116,19 @@ hr {
     grid-column: 1/3;
     grid-row: 2/3;
   }
+  .blog-content p {
+    font-size: 5vw;
+  }
+  .blog-content h1 {
+    font-size: 5vw;
+  }
+  .section2 ul {
+    font-size: 4vw;
+  }
   .blog-image img {
-    height: 50%;
+    height: 100%;
   }
-  .blog-content {
-    font-size: 50vh;
-  }
+  /* .blog-content {
+    font-size: 12px;
+  } */
 }
